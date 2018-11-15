@@ -41,5 +41,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
 
   spec.add_runtime_dependency "bakets", "~> 0.1.0"
-  spec.add_runtime_dependency "require_all", "~> 2.0.0"
+  spec.add_runtime_dependency "require_mod", "~> 0.1.0"
 end
